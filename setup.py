@@ -6,9 +6,9 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = 'tid-regression-model'
-DESCRIPTION = "Predict Singapore HDB resale price."
-URL = "https://github.com/curvedspacetime/predicting-Singapore-HDB-resale-prices-package"
+NAME = 'sin-hdb-resale-price-regression-model'
+DESCRIPTION = "Singapore HDB resale price prediction."
+URL = "https://github.com/curvedspacetime/Singapore-HDB-Resale-Prices-Predicting-Model-Package"
 EMAIL = "matalexchang@gmail.com"
 AUTHOR = "AlexZhang"
 REQUIRES_PYTHON = ">=3.6.0"

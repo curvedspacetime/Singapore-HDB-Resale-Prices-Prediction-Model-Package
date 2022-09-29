@@ -49,7 +49,7 @@ class HouseDataInputSchema(BaseModel):
     storey_range: Optional[str]
     floor_area_sqm: Optional[float]
     flat_model: Optional[str]
-    lease_commence_data: Optional[int]
+    lease_commence_date: Optional[int]
     remaining_lease: Optional[str]
     dist_school: Optional[float]
     dist_mrt: Optional[float]

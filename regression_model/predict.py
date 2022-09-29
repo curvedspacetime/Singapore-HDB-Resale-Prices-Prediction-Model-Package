@@ -24,7 +24,7 @@ def make_prediction(*, input_data: t.Union[pd.DataFrame, dict]) -> dict:
     if not errors:
         predictions = np.exp(
             _housing_price_pipe.predict(X=validated_data[config.model_config.features])
-        )
+        ).tolist()
 
         results = {"predictions": predictions, "version": _version, "errors": errors}
 
