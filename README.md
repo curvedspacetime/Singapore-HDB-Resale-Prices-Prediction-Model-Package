@@ -9,4 +9,4 @@
     * mrt stations: https://github.com/hxchua/datadoubleconfirm/blob/master/datasets/mrtsg.csv
     * primary schools: https://github.com/hxchua/datadoubleconfirm/blob/master/datasets/primaryschoolsg.csv
     * crimes: https://data.gov.sg/dataset/five-preventable-crime-cases-recorded-by-npc
-  
+4. This project has been deployed on Heroku https://murmuring-brook-39831.herokuapp.com  
