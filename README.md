@@ -1,4 +1,4 @@
-# Singapore-HDB-Resale-Prices-Predicting-Model-Package
+# Singapore-HDB-Resale-Prices-Prediction-Model-Package
 
 1. This project is inspired by the udemy online course "deployment of machine learning models" by Christopher Samiullah.
 2. The collection of the data is inspired by the online blog "Predictive modelling of Singapore Housing Prices" by Michael Wy Ong.
